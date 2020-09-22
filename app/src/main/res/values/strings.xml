@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestoPick</string>
+    <string name="mc_donalds">Mc Donalds</string>
+    <string name="decide">Decide</string>
+    <string name="add_food">Add Food</string>
+    <string name="add_food_btn">ADD FOOD</string>
+</resources>
